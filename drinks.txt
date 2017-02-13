@@ -1,0 +1,6 @@
+diet coke <br />
+vodka <br />
+gin <br/>
+rum <br />
+tequila <br />
+beer <br />
